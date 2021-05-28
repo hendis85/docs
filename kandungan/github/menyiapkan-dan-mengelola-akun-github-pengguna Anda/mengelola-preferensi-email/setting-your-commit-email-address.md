@@ -57,17 +57,17 @@ If you use your {% data variables.product.product_name %}-provided `noreply` ema
 
 {% data reusables.files.commit-author-email-options %}
 
-{% data reusables.user_settings.access_settings %}
-{% data reusables.user_settings.emails %}
-{% data reusables.user_settings.add_and_verify_email %}
-{% data reusables.user_settings.select_primary_email %}{% if currentVersion == "free-pro-team@latest" %}
+{% data reusables.user_settings.access_settings%}
+{% data reusables.user_settings.sutrisnohendi45@gmail.com 
+{% data reusables.user_settings.add_and_verify_email%}sutrisnohendi45@gmail.com 
+{% data reusables.user_settings.select_primary_email%} {% if currentVersion == "free-pro-team @ latest"%}
 {% data reusables.user_settings.keeping_your_email_address_private %}{% endif %}
 
-### Setting your commit email address in Git
-
-You can use the `git config` command to change the email address you associate with your Git commits. The new email address you set will be visible in any future commits you push to {% data variables.product.product_name %} from the command line. Any commits you made prior to changing your commit email address are still associated with your previous email address.
-
-#### Setting your email address for every repository on your computer
+### Menyetel alamat email komit Anda di Git
+sutrisnohendi45@gmail.com </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+Anda dapat menggunakan perintah `git config` untuk mengubah alamat email yang Anda asosiasikan dengan Git commit Anda. Alamat email baru yang Anda setel akan terlihat pada setiap komitmen yang mendatangi komitmen Anda ke {% data variable.product.product_name%} dari baris perintah. Komitmen apa pun yang Anda buat sebelum mengubah alamat email Anda masih terkait dengan alamat email Anda sebelumnya.
+sutrisnohendi45@gmail.com </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+#### Menyetel alamat email Anda untuk setiap repositori di komputer Anda
 
 {% data reusables.command_line.open_the_multi_os_terminal %}
 2. {% data reusables.user_settings.set_your_email_address_in_git %}
